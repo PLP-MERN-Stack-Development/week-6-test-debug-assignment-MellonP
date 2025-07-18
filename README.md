@@ -2,7 +2,7 @@
 
 A full-stack bug tracking application built with the MERN stack (MongoDB, Express, React, Node.js).
 
-![App Screenshot](/Screenshot 2025-07-18 170138.png)
+![App Screenshot](./Screenshot%202025-07-18%20170138.png)
 
 ## Features ✨
 
