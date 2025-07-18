@@ -1,0 +1,180 @@
+2025-07-17 13:43:50 [[31merror[39m]: uncaughtException: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\Desktop\Vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\Desktop\Vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///C:/Users/user/Desktop/Vault/fullstack%20-%20mern/mern-testing/server/src/controllers/bugs.js:1:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:192:25)
+2025-07-17 13:46:40 [[31merror[39m]: uncaughtException: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\Desktop\Vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\Desktop\Vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///C:/Users/user/Desktop/Vault/fullstack%20-%20mern/mern-testing/server/src/controllers/bugs.js:1:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:192:25)
+2025-07-17 13:50:18 [[31merror[39m]: uncaughtException: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\Desktop\Vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\Desktop\Vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///C:/Users/user/Desktop/Vault/fullstack%20-%20mern/mern-testing/server/src/controllers/bugs.js:1:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:192:25)
+2025-07-17 13:53:23 [[31merror[39m]: uncaughtException: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\Desktop\Vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\Desktop\Vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///C:/Users/user/Desktop/Vault/fullstack%20-%20mern/mern-testing/server/src/controllers/bugs.js:1:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:192:25)
+2025-07-17 13:53:43 [[31merror[39m]: uncaughtException: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\Desktop\Vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\Desktop\Vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///C:/Users/user/Desktop/Vault/fullstack%20-%20mern/mern-testing/server/src/controllers/bugs.js:1:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:192:25)
+2025-07-17 13:55:09 [[31merror[39m]: uncaughtException: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\Desktop\Vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\Desktop\Vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///C:/Users/user/Desktop/Vault/fullstack%20-%20mern/mern-testing/server/src/controllers/bugs.js:1:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:192:25)
+2025-07-17 13:56:23 [[31merror[39m]: uncaughtException: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\Desktop\Vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\Desktop\Vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///C:/Users/user/Desktop/Vault/fullstack%20-%20mern/mern-testing/server/src/controllers/bugs.js:1:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:192:25)
+2025-07-17 13:58:12 [[31merror[39m]: uncaughtException: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\Desktop\Vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\Desktop\Vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///C:/Users/user/Desktop/Vault/fullstack%20-%20mern/mern-testing/server/src/controllers/bugs.js:1:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:192:25)
+2025-07-17 13:58:44 [[31merror[39m]: uncaughtException: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\Desktop\Vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\Desktop\Vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///C:/Users/user/Desktop/Vault/fullstack%20-%20mern/mern-testing/server/src/controllers/bugs.js:1:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:192:25)
+2025-07-17 14:13:37 [[31merror[39m]: uncaughtException: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\Desktop\Vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\Desktop\Vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///C:/Users/user/Desktop/Vault/fullstack%20-%20mern/mern-testing/server/src/controllers/bugs.js:1:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:192:25)
+2025-07-17 14:14:45 [[31merror[39m]: uncaughtException: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\Desktop\Vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\Desktop\Vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///C:/Users/user/Desktop/Vault/fullstack%20-%20mern/mern-testing/server/src/controllers/bugs.js:1:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:192:25)
+2025-07-17 14:15:37 [[31merror[39m]: uncaughtException: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\Desktop\Vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\Desktop\Vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///C:/Users/user/Desktop/Vault/fullstack%20-%20mern/mern-testing/server/src/controllers/bugs.js:1:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:192:25)
+2025-07-17 14:17:51 [[31merror[39m]: uncaughtException: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\Desktop\Vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\Desktop\Vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///C:/Users/user/Desktop/Vault/fullstack%20-%20mern/mern-testing/server/src/controllers/bugs.js:1:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:192:25)
+2025-07-17 14:23:13 [[31merror[39m]: uncaughtException: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\Desktop\Vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\Desktop\Vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///C:/Users/user/Desktop/Vault/fullstack%20-%20mern/mern-testing/server/src/controllers/bugs.js:1:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:192:25)
+2025-07-17 14:24:33 [[31merror[39m]: uncaughtException: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\Desktop\Vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\Desktop\Vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///C:/Users/user/Desktop/Vault/fullstack%20-%20mern/mern-testing/server/src/controllers/bugs.js:1:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:192:25)
+2025-07-17 14:25:20 [[31merror[39m]: uncaughtException: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\Desktop\Vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\Desktop\Vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///C:/Users/user/Desktop/Vault/fullstack%20-%20mern/mern-testing/server/src/controllers/bugs.js:1:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:192:25)
+2025-07-17 14:33:11 [[31merror[39m]: uncaughtException: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\Desktop\Vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\Desktop\Vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///C:/Users/user/Desktop/Vault/fullstack%20-%20mern/mern-testing/server/src/controllers/bugs.js:1:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:192:25)
+2025-07-17 15:32:52 [[31merror[39m]: uncaughtException: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\Desktop\Vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\Desktop\Vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///C:/Users/user/Desktop/Vault/fullstack%20-%20mern/mern-testing/server/src/controllers/bugs.js:1:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:192:25)
+2025-07-17 15:43:41 [[31merror[39m]: uncaughtException: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\Desktop\Vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\Desktop\Vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///C:/Users/user/Desktop/Vault/fullstack%20-%20mern/mern-testing/server/src/controllers/bugs.js:1:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:192:25)
+2025-07-17 15:49:30 [[31merror[39m]: uncaughtException: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\Desktop\Vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\Desktop\Vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///C:/Users/user/Desktop/Vault/fullstack%20-%20mern/mern-testing/server/src/controllers/bugs.js:1:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:192:25)
+2025-07-17 16:21:17 [[31merror[39m]: uncaughtException: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\Desktop\Vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\Desktop\Vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///C:/Users/user/Desktop/Vault/fullstack%20-%20mern/mern-testing/server/src/controllers/bugs.js:1:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:192:25)
+2025-07-17 16:24:26 [[31merror[39m]: uncaughtException: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\Desktop\Vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\Desktop\Vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///C:/Users/user/Desktop/Vault/fullstack%20-%20mern/mern-testing/server/src/controllers/bugs.js:1:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:192:25)
+2025-07-17 16:24:45 [[31merror[39m]: uncaughtException: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\desktop\vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\desktop\vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///C:/Users/user/desktop/vault/fullstack%20-%20mern/mern-testing/server/src/controllers/bugs.js:1:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:192:25)
+2025-07-17 17:18:25 [[31merror[39m]: uncaughtException: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\desktop\vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\desktop\vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///C:/Users/user/desktop/vault/fullstack%20-%20mern/mern-testing/server/src/controllers/bugs.js:1:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:192:25)
+2025-07-17 17:18:50 [[31merror[39m]: uncaughtException: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\desktop\vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\desktop\vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///C:/Users/user/desktop/vault/fullstack%20-%20mern/mern-testing/server/src/controllers/bugs.js:1:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:192:25)
+2025-07-17 17:22:46 [[31merror[39m]: uncaughtException: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\Desktop\Vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\Desktop\Vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///C:/Users/user/Desktop/Vault/fullstack%20-%20mern/mern-testing/server/src/controllers/bugs.js:1:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:192:25)
+2025-07-17 17:23:53 [[31merror[39m]: uncaughtException: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\desktop\vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\desktop\vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///C:/Users/user/desktop/vault/fullstack%20-%20mern/mern-testing/server/src/controllers/bugs.js:1:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:192:25)
+2025-07-17 17:29:55 [[31merror[39m]: uncaughtException: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\desktop\vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\desktop\vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///C:/Users/user/desktop/vault/fullstack%20-%20mern/mern-testing/server/src/controllers/bugs.js:1:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:192:25)
+2025-07-17 17:30:14 [[31merror[39m]: uncaughtException: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\Desktop\Vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\Desktop\Vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///C:/Users/user/Desktop/Vault/fullstack%20-%20mern/mern-testing/server/src/controllers/bugs.js:1:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:192:25)
+2025-07-17 17:31:35 [[31merror[39m]: uncaughtException: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\desktop\vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\user\desktop\vault\fullstack - mern\mern-testing\server\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///C:/Users/user/desktop/vault/fullstack%20-%20mern/mern-testing/server/src/controllers/bugs.js:1:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:192:25)

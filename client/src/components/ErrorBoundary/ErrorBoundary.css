@@ -1,0 +1,28 @@
+.error-boundary {
+  max-width: 600px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background: #ffebee;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.error-message {
+  color: #c62828;
+  margin: 1rem 0;
+  font-family: monospace;
+}
+
+.refresh-btn {
+  background: #2c3e50;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+.refresh-btn:hover {
+  background: #1a252f;
+}
